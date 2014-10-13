@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PhotoFragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="Name">
+        <item >Person1 </item>
+        <item> Person2</item>
+            <item>Person3</item>
+            <item >Person4</item>
+            <item>Person5</item>
+        
+            </string-array>
+
+</resources>
