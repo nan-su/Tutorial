@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="Slist">
+        
+        <item>Track1</item>       
+        <item>Track2</item> 
+         <item>Track3</item> 
+          <item>Track4</item> 
+          <item>Track5</item> 
+    </string-array>
+</resources>
